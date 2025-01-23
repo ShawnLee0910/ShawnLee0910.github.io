@@ -24,10 +24,7 @@ Explore My Website
 ======
 On this website, you can find:
 - **[Publications](./publications/)**: My research papers, categorized by journals and conferences.
-- **[Projects](./projects/)**: Information about my academic and professional projects.
-- **[Teaching](./teaching/)**: My teaching and mentoring experiences (if applicable).
 - **[CV](./cv/)**: A detailed curriculum vitae, available for download.
-- **[Blog](./blog/)**: Articles, thoughts, and tutorials related to my field of study.
 
 Contact Me
 ======
