@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
 # Biographic information
-avatar           : "123.jpg"  # 确保头像文件名与实际文件匹配，并存放在 /assets/images/ 文件夹中
+avatar           : "profile.png"  # 确保头像文件名与实际文件匹配，并存放在 /assets/images/ 文件夹中
 name             : "Yuanshuai Li"
 pronouns         : "he/him"
 bio              : "Bachelor's student in Internet of Things Engineering at Nantong University, specializing in vehicular network security, cryptography, and IoT security."
