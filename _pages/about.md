@@ -17,6 +17,10 @@ On this website, you can find:
 - **[Publications](./publications/)**: My research papers, categorized by journals and conferences.
 - **[CV](./cv/)**: A detailed curriculum vitae, available for download.
 
+Future Outlook
+======
+As I progress in my academic journey, I am particularly interested in exploring the realms of **AI large model privacy** and **secure multi-party machine learning**. These fields are at the forefront of modern technological advancements and present significant challenges and opportunities for research. I am eager to delve deeper into these areas and contribute to the development of secure and privacy-preserving AI solutions. I hope to successfully transition to the next phase of my academic career, where I can further pursue these interests and collaborate with leading researchers in the field.
+
 Contact Me
 ======
 Feel free to reach out to me for collaboration, research discussions, or any inquiries:
