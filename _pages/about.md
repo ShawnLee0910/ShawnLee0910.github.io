@@ -32,8 +32,12 @@ On this website, you can find:
 Contact Me
 ======
 Feel free to reach out to me for collaboration, research discussions, or any inquiries:
-- **Email**: [2130110738@stmail.ntu.edu.cn](mailto:2130110738@stmail.ntu.edu.cn)
-- **LinkedIn**: [My LinkedIn](https://linkedin.com/in/your-linkedin)
-- **GitHub**: [My GitHub](https://github.com/your-username)
-- **Google Scholar**: [My Google Scholar]([https://scholar.google.com/citations?user=lvjiOWMAAAAJ&hl=en]
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <div><strong>Email:</strong> <a href="mailto:2130110738@stmail.ntu.edu.cn">2130110738@stmail.ntu.edu.cn</a></div>
+  <div><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-linkedin" target="_blank">My LinkedIn</a></div>
+  <div><strong>GitHub:</strong> <a href="https://github.com/your-username" target="_blank">My GitHub</a></div>
+  <div><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=lvjiOWMAAAAJ&hl=en" target="_blank">My Google Scholar</a></div>
+</div>
+
 I look forward to connecting with you!
