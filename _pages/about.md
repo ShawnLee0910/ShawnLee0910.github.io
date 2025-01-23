@@ -35,6 +35,6 @@ Feel free to reach out to me for collaboration, research discussions, or any inq
 - **Email**: [2130110738@stmail.ntu.edu.cn](mailto:2130110738@stmail.ntu.edu.cn)
 - **LinkedIn**: [My LinkedIn](https://linkedin.com/in/your-linkedin)
 - **GitHub**: [My GitHub](https://github.com/your-username)
-- **Google Scholar**: [My Google Scholar](https://scholar.google.com/citations?user=YOUR_PROFILE_ID)
+- **Google Scholar**: [My Google Scholar]([https://scholar.google.com/citations?user=YOUR_PROFILE_ID](https://scholar.google.com/citations?user=lvjiOWMAAAAJ&hl=en))
 
 I look forward to connecting with you!
