@@ -9,7 +9,15 @@ redirect_from:
 
 Welcome to my personal academic website!
 ======
-I am **Yuanshuai Li**, currently pursuing a Bachelor's degree in Internet of Things Engineering at **Nantong University**. My primary research interests lie in **vehicular network security**, **cryptography**, and **information security**. This website serves as a platform to showcase my academic achievements, publications, projects, and ongoing research.
+1. **Introduction**:  
+   I am **Yuanshuai Li**, a student currently pursuing a Bachelor's degree in **Internet of Things Engineering** at **Nantong University**.
+
+2. **Research Interests**:  
+   My primary research interests include **vehicular network security**, **cryptography**, and **information security**.
+
+3. **Purpose of the Website**:  
+   This website serves as a platform to showcase my **academic achievements**, **publications**, **projects**, and **ongoing research**.
+
 
 Explore My Website
 ======
