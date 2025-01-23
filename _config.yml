@@ -20,15 +20,16 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "123.jpg"
+# Biographic information
+avatar           : "123.jpg"  # 确保头像文件名与实际文件匹配，并存放在 /assets/images/ 文件夹中
 name             : "Yuanshuai Li"
 pronouns         : "he/him"
 bio              : "Bachelor's student in Internet of Things Engineering at Nantong University, specializing in vehicular network security, cryptography, and IoT security."
 location         : "Nantong, China"
 employer         : "Nantong University"
-uri              : "https://yourusername.github.io"  # 替换为您的个人网站 URL
+uri              : "https://yourusername.github.io"  # 替换为实际的 GitHub Pages 网址
 email            : "2130110738@stmail.ntu.edu.cn"
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
