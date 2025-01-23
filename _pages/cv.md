@@ -1,4 +1,4 @@
-![20507C78](https://github.com/user-attachments/assets/a06ec41c-fc12-4448-b93b-2ba70ee7f28d)---
+---
 layout: archive
 title: "Download resume"
 permalink: /cv/
