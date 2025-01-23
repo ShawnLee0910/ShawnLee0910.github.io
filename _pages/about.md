@@ -11,15 +11,6 @@ Welcome to my personal academic website!
 ======
 I am **Yuanshuai Li**, currently pursuing a Bachelor's degree in Internet of Things Engineering at **Nantong University**. My primary research interests lie in **vehicular network security**, **cryptography**, and **information security**. This website serves as a platform to showcase my academic achievements, publications, projects, and ongoing research.
 
-About Me
-======
-I have published several research papers in esteemed journals and conferences, including:
-- **JCR Q1 journal publication**: *Improved RSA Dynamic Cryptographic Accumulator-Based Anonymous Batch Authentication Scheme for Internet of Vehicles* in *Computers and Electrical Engineering*.
-- **Core journal publication**: *Research on CapBAC-Cryptographic Accumulator-Based Access Control Algorithm in Vehicular Networks* in *Computer Applications and Software*.
-- **Conference paper**: *Hybrid Message Authentication Scheme for Internet of Vehicles Based on Zero-Knowledge Proof* presented at *2024 AINIT Conference*.
-
-I have also filed **10 national-level invention patents** in China, with 3 as the first applicant. Currently, I am involved in **national-level innovation projects**, focusing on secure communication and user privacy protection in the Internet of Vehicles.
-
 Explore My Website
 ======
 On this website, you can find:
