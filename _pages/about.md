@@ -13,7 +13,8 @@ Welcome to my personal academic website!
    I am **Yuanshuai Li**, a student currently pursuing a Bachelor's degree in **Internet of Things Engineering** at **Nantong University**.
 
 2. **Research Interests**:  
-   My primary research interests include **vehicular network security**, **cryptography**, and **information security**.
+   - My primary research interests include **vehicular network security**, **cryptography**, and **information security**.
+   - Looking forward, I am eager to delve into advanced areas such as **AI-based multi-party training**, **AI security**, and **AI privacy**.
 
 3. **Purpose of the Website**:  
    This website serves as a platform to showcase my **academic achievements**, **publications**, **projects**, and **ongoing research**.
@@ -25,9 +26,10 @@ On this website, you can find:
 - **[Publications](./publications/)**: My research papers, categorized by journals and conferences.
 - **[CV](./cv/)**: A detailed curriculum vitae, available for download.
 
-Future Outlook
+Future Outlook  
 ======
-As I progress in my academic journey, I am particularly interested in exploring the realms of **AI large model privacy** and **secure multi-party machine learning**. These fields are at the forefront of modern technological advancements and present significant challenges and opportunities for research. I am eager to delve deeper into these areas and contribute to the development of secure and privacy-preserving AI solutions. I hope to successfully transition to the next phase of my academic career, where I can further pursue these interests and collaborate with leading researchers in the field.
+As I continue my academic journey, I am particularly drawn to exploring the emerging fields of **AI large model privacy** and **secure multi-party machine learning**. These areas represent both significant challenges and exciting opportunities in modern technology. I am eager to deepen my understanding and contribute to the development of secure, privacy-preserving AI solutions. Looking ahead, I aspire to transition into the next phase of my career, collaborating with leading researchers to advance these critical fields.
+
 
 Contact Me
 ======
